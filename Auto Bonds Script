@@ -16,5 +16,5 @@ local Tabs = {
 
 Tabs.Main:AddParagraph({
     Title = "TEMPORARILY PATCHED :(",
-    Content = "Hello everyone, my script is temporarily patched but don't worry he will soon be back much better. My idea is not to create just a simple auto bonds script. My idea is to create a script with several functions such as Esp, KillAura, Teleport, Bring Items, Bypass Fly, Auto Reload, Auto Shoot, Auto Sell... and many other things. It will take a few weeks to release this update, but I want this update to be a big update. I'm counting on your patience. I'll be back soon.\nSigned: BlankX "
+    Content = "Hello everyone, my script is temporarily patched but don't worry he will soon be back much better. My idea is not to create just a simple auto bonds script. My idea is to create a script with several functions such as Esp, KillAura, Teleport, Bring Items, Bypass Fly, Auto Reload, Auto Shoot, Auto Sell... and many other things. It will take a few weeks to release this update because im making my scripts in mobile i dont have pc, but I want this update to be a big update. I'm counting on your patience. I'll be back soon.\nSigned: BlankX :)"
 })
